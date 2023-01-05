@@ -1,2 +1,2 @@
 # Project01
-Project on HTML, SERVLET, JDBC (Insert data into table) 
+UserInterface(UI page)with HTML
